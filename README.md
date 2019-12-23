@@ -1,2 +1,1 @@
-# mvn-maven
-maven project
+# mvn
